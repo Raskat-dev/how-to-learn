@@ -6,6 +6,6 @@
 	top: 0;
 	height: 877px;
 	width: 877px;
-	z-index: 1;
+	z-index: 0;
 	animation: rotation-triangle 20s infinite normal linear
 }
